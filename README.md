@@ -23,7 +23,7 @@ Board, TODO - IN PROGRESS - DONE olmak üzere üç kolondan oluşmalıdır. Vars
 
 Uygulama başladığında kullanıcıya yapmak istediği işlem seçtirilir:
 
-```plaintext
+
 Lütfen yapmak istediğiniz işlemi seçiniz :) 
 ******************************************* 
 (1) Board Listelemek 
@@ -31,9 +31,10 @@ Lütfen yapmak istediğiniz işlemi seçiniz :)
 (3) Board'dan Kart Silmek 
 (4) Kart Taşımak
 
+
 ## Board Listelemek
 
-```plaintext
+
 TODO Line
 ************************
 Başlık      :
@@ -64,7 +65,7 @@ DONE Line
 
 ## Board'a Kart Eklemek
 
-```plaintext
+
 Başlık Giriniz          : 
 İçerik Giriniz          :
 Büyüklük Seçiniz -> XS(1),S(2),M(3),L(4),XL(5)  :
